@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Olzhas
-- 🌱 I’m currently interested in DS
+- 🌱 I’m currently learning DS
